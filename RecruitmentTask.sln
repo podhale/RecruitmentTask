@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentTask.API", "RecruitmentTask.API\RecruitmentTask.API.csproj", "{A8913E68-8A22-43C2-9E75-4482646B8110}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentTask.Infrastructure", "RecruitmentTask.Infrastructure\RecruitmentTask.Infrastructure.csproj", "{49D93EDF-7174-4631-8434-06EF4194514A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentTask.Core", "RecruitmentTask.Core\RecruitmentTask.Core.csproj", "{D874E30B-7A75-421B-ABDB-5FD1C2E0CBF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A8913E68-8A22-43C2-9E75-4482646B8110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8913E68-8A22-43C2-9E75-4482646B8110}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8913E68-8A22-43C2-9E75-4482646B8110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D93EDF-7174-4631-8434-06EF4194514A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D93EDF-7174-4631-8434-06EF4194514A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D93EDF-7174-4631-8434-06EF4194514A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D93EDF-7174-4631-8434-06EF4194514A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D874E30B-7A75-421B-ABDB-5FD1C2E0CBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D874E30B-7A75-421B-ABDB-5FD1C2E0CBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D874E30B-7A75-421B-ABDB-5FD1C2E0CBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D874E30B-7A75-421B-ABDB-5FD1C2E0CBF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
